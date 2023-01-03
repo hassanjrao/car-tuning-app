@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
 
-    <title>@yield('page-title') - Admin Panel</title>
+    <title>@yield('page-title') - Ed-Cartuning</title>
 
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Free HTML Templates" name="keywords">
@@ -76,7 +76,10 @@
         <div class="position-relative px-lg-5" style="z-index: 9;">
             <nav class="navbar navbar-expand-lg bg-secondary navbar-dark py-3 py-lg-0 pl-3 pl-lg-5">
                 <a href="{{ route('home') }}" class="navbar-brand">
-                    <h1 class="text-uppercase text-primary mb-1">LOGO</h1>
+                    {{-- <h1 class="text-uppercase text-primary mb-1">Ed-Cartuning --}}
+
+                        <img src="{{ asset("media/logo.svg") }}" class="img-fluid" width="200px" height="200px" alt="Site logo">
+                    {{-- </h1> --}}
                 </a>
                 <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                     <span class="navbar-toggler-icon"></span>
@@ -204,6 +207,11 @@
                 <p class="mb-2"><i class="fa fa-map-marker-alt text-white mr-3"></i>123 Street, New York, USA</p>
                 <p class="mb-2"><i class="fa fa-phone-alt text-white mr-3"></i>+012 345 67890</p>
                 <p><i class="fa fa-envelope text-white mr-3"></i>info@example.com</p>
+
+            </div>
+
+            <div class="col-lg-3 col-md-6 mb-5">
+
                 <h6 class="text-uppercase text-white py-2">Follow Us</h6>
                 <div class="d-flex justify-content-start">
                     <a class="btn btn-lg btn-dark btn-lg-square mr-2" href="#"><i
@@ -215,7 +223,7 @@
                     <a class="btn btn-lg btn-dark btn-lg-square" href="#"><i class="fab fa-instagram"></i></a>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 mb-5">
+            {{-- <div class="col-lg-3 col-md-6 mb-5">
                 <h4 class="text-uppercase text-light mb-4">Usefull Links</h4>
                 <div class="d-flex flex-column justify-content-start">
                     <a class="text-body mb-2" href="#"><i class="fa fa-angle-right text-white mr-2"></i>Private
@@ -231,9 +239,9 @@
                     <a class="text-body" href="#"><i class="fa fa-angle-right text-white mr-2"></i>Help &
                         FQAs</a>
                 </div>
-            </div>
+            </div> --}}
 
-            <div class="col-lg-3 col-md-6 mb-5">
+            {{-- <div class="col-lg-3 col-md-6 mb-5">
                 <h4 class="text-uppercase text-light mb-4">Newsletter</h4>
                 <p class="mb-4">Volup amet magna clita tempor. Tempor sea eos vero ipsum. Lorem lorem sit sed elitr
                     sed kasd et</p>
@@ -247,11 +255,11 @@
                     </div>
                 </div>
                 <i>Lorem sit sed elitr sed kasd et</i>
-            </div>
+            </div> --}}
         </div>
     </div>
     <div class="container-fluid bg-dark py-4 px-sm-3 px-md-5">
-        <p class="mb-2 text-center text-body">&copy; <a href="#">Your Site Name</a>. All Rights Reserved.</p>
+        <p class="mb-2 text-center text-body">&copy; <a href="#">Ed-Cartuning</a>. All Rights Reserved.</p>
 
     </div>
     <!-- Footer End -->

@@ -13,22 +13,22 @@
                     <img class="w-100" src="{{ asset("front-assets/img/carousel-1.jpg")}}" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
-                            <h4 class="text-white text-uppercase mb-md-3">Rent A Car</h4>
-                            <h1 class="display-1 text-white mb-md-4">Best Rental Cars In Your Location</h1>
+
+                            <h1 class="display-1 text-white mb-md-4">Ed-Cartuning</h1>
+                            <h4 class="text-white text-uppercase mb-md-3">Quality Custom Chiptuning</h4>
                             {{-- <a href="" class="btn btn-primary py-md-3 px-md-5 mt-2">Reserve Now</a> --}}
                         </div>
                     </div>
                 </div>
-                <div class="carousel-item">
+                {{-- <div class="carousel-item">
                     <img class="w-100" src="img/carousel-2.jpg" alt="Image">
                     <div class="carousel-caption d-flex flex-column align-items-center justify-content-center">
                         <div class="p-3" style="max-width: 900px;">
                             <h4 class="text-white text-uppercase mb-md-3">Rent A Car</h4>
                             <h1 class="display-1 text-white mb-md-4">Quality Cars with Unlimited Miles</h1>
-                            {{-- <a href="" class="btn btn-primary py-md-3 px-md-5 mt-2">Reserve Now</a> --}}
                         </div>
                     </div>
-                </div>
+                </div> --}}
             </div>
             <a class="carousel-control-prev" href="#header-carousel" data-slide="prev">
                 <div class="btn btn-dark" style="width: 45px; height: 45px;">
@@ -53,9 +53,9 @@
             <div class="row justify-content-center">
                 <div class="col-lg-10 text-center">
                     {{-- <img class="w-75 mb-4" src="{{ asset("front-assets/img/about.png") }}" alt=""> --}}
-                    <p>Whether you want to have your exclusive sports car tuned or want to give your loyal diesel extra power, at Ecu-Soft we have the knowledge and technology to improve the performance of your car. Optimizing the performance of your car so that you experience more driving pleasure, that makes us very happy. You will receive honest advice from us about the expected result. We love cars and don't do anything that will damage their reliability or technology.
+                    <p>Whether you want to have your exclusive sports car tuned or want to give your loyal diesel extra power, at Ed-Cartuning we have the knowledge and technology to improve the performance of your car. Optimizing the performance of your car so that you experience more driving pleasure, that makes us very happy. You will receive honest advice from us about the expected result. We love cars and don't do anything that will damage their reliability or technology.
 
-                        More power and save on fuel? Discover the possibilities for your car at Ecu-Soft.</p>
+                        More power and save on fuel? Discover the possibilities for your car at Ed-Cartuning.</p>
                 </div>
             </div>
             <div class="row mt-3">

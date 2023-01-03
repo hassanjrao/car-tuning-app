@@ -9,8 +9,8 @@
             <!-- Main Section -->
             <div class="hero-static col-lg-12 d-flex flex-column align-items-center bg-body-light">
                 <div class="p-3 w-100 text-center">
-                    <a class="link-fx fw-semibold fs-3 text-dark" href="index.html">
-                        Sim <span class="fw-normal">App</span>
+                    <a class="link-fx fw-semibold fs-3 text-dark" href="{{ route("home") }}">
+                        Ed-Cartuning
                     </a>
                 </div>
                 <div class="p-4 w-100 flex-grow-1 d-flex align-items-center">
@@ -85,7 +85,7 @@
                 <div
                     class="px-4 py-3 w-100 d-flex flex-column flex-sm-row justify-content-between fs-sm text-center text-sm-start">
                     <p class="fw-medium text-black-50 py-2 mb-0">
-                        <strong>Sim App</strong> &copy; <span data-toggle="year-copy"></span>
+                        <strong>Ed-Cartuning</strong> &copy; <span data-toggle="year-copy"></span>
                     </p>
                     <ul class="list list-inline py-2 mb-0">
                         <li class="list-inline-item">

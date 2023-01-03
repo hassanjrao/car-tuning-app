@@ -4,9 +4,9 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
 
-        <title>Sim App</title>
+        <title>Ed-Cartuning</title>
 
-        <meta name="description" content="Sim App">
+        <meta name="description" content="Ed-Cartuning">
         <meta name="author" content="pixelcave">
         <meta name="robots" content="noindex, nofollow">
 
